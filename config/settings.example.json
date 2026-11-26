@@ -1,0 +1,16 @@
+{
+  "project_name": "LifeTimeLibrary",
+  "language": "Hinglish",
+  "reading_time_minutes": 10,
+  "timezone": "Asia/Kolkata",
+  "daily_delivery_time": "07:00",
+  "weekly_review_day": "Sunday",
+  "budget_inr": 0,
+  "allow_paid_apis": false,
+  "allow_ai_credit_overages": false,
+  "max_articles_per_pillar": 5,
+  "dedup_lookback_days": 30,
+  "export_pdf": true,
+  "email_approved": false,
+  "recipient_email": ""
+}

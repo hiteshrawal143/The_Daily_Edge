@@ -1,0 +1,192 @@
+{
+  "health": [
+    {
+      "name": "Nature - Neuroscience",
+      "url": "https://www.nature.com/neuro.rss",
+      "type": "scientific_feed",
+      "credibility_weight": 10,
+      "topics": ["neuroscience", "human biology", "psychology", "mental health"],
+      "notes": "Peer-reviewed neuroscience research from Nature Portfolio."
+    },
+    {
+      "name": "PLOS Medicine",
+      "url": "https://journals.plos.org/plosmedicine/feed/atom",
+      "type": "scientific_feed",
+      "credibility_weight": 10,
+      "topics": ["human biology", "longevity", "nutrition", "mental health"],
+      "notes": "Open-access peer-reviewed medical research journal."
+    },
+    {
+      "name": "Medical Xpress",
+      "url": "https://medicalxpress.com/rss-feed/",
+      "type": "scientific_feed",
+      "credibility_weight": 9,
+      "topics": ["fitness", "nutrition", "sleep", "longevity", "stress management"],
+      "notes": "Research-backed medical, exercise science, and nutrition summaries."
+    },
+    {
+      "name": "ScienceDaily - Mind & Brain",
+      "url": "https://www.sciencedaily.com/rss/mind_brain.xml",
+      "type": "scientific_feed",
+      "credibility_weight": 9,
+      "topics": ["neuroscience", "psychology", "mental health", "sleep", "habits"],
+      "notes": "Peer-reviewed university research summaries in neuroscience and psychology."
+    },
+    {
+      "name": "ScienceDaily - Health & Medicine",
+      "url": "https://www.sciencedaily.com/rss/health_medicine.xml",
+      "type": "scientific_feed",
+      "credibility_weight": 9,
+      "topics": ["fitness", "nutrition", "longevity", "human biology"],
+      "notes": "Peer-reviewed medical and exercise science news."
+    },
+    {
+      "name": "Huberman Lab Podcast (Public RSS)",
+      "url": "https://feeds.megaphone.fm/hubermanlab",
+      "type": "podcast_rss",
+      "credibility_weight": 8,
+      "topics": ["neuroscience", "sleep", "stress management", "habits", "fitness"],
+      "notes": "Public podcast feed covering applied neuroscience and behavioral protocols."
+    },
+    {
+      "name": "The Drive Podcast (Peter Attia)",
+      "url": "https://peterattiamd.com/feed/",
+      "type": "podcast_rss",
+      "credibility_weight": 8,
+      "topics": ["longevity", "fitness", "nutrition", "sleep"],
+      "notes": "Public feed on longevity, exercise physiology, and metabolic health."
+    },
+    {
+      "name": "WHO News (World Health Organization)",
+      "url": "https://www.who.int/rss-feeds/news-english.xml",
+      "type": "official_public_health",
+      "credibility_weight": 10,
+      "topics": ["human biology", "mental health", "nutrition"],
+      "notes": "Official global public health updates and guidance."
+    }
+  ],
+  "wealth": [
+    {
+      "name": "RBI Press Releases (Reserve Bank of India)",
+      "url": "https://www.rbi.org.in/pressreleases_rss.xml",
+      "type": "official_institution",
+      "credibility_weight": 10,
+      "topics": ["economics", "personal finance", "investing fundamentals"],
+      "notes": "Official Indian monetary policy, banking, and macroeconomics updates."
+    },
+    {
+      "name": "Finshots",
+      "url": "https://finshots.in/rss/",
+      "type": "educational_blog",
+      "credibility_weight": 8,
+      "topics": ["personal finance", "business models", "economics", "startups"],
+      "notes": "Clear, educational Indian finance, business, and macro explainers."
+    },
+    {
+      "name": "Of Dollars And Data",
+      "url": "https://ofdollarsanddata.com/feed/",
+      "type": "educational_blog",
+      "credibility_weight": 9,
+      "topics": ["personal finance", "investing fundamentals", "wealth creation"],
+      "notes": "Data-driven personal finance and long-term compounding education."
+    },
+    {
+      "name": "Y Combinator Blog",
+      "url": "https://www.ycombinator.com/blog/rss/",
+      "type": "startup_blog",
+      "credibility_weight": 9,
+      "topics": ["startups", "entrepreneurship", "AI business opportunities", "business models"],
+      "notes": "Practical startup building, fundraising, and product lessons."
+    },
+    {
+      "name": "Marginal Revolution (Economics)",
+      "url": "https://feeds.feedburner.com/marginalrevolution/feed",
+      "type": "economics_blog",
+      "credibility_weight": 8,
+      "topics": ["economics", "business models", "technology"],
+      "notes": "Academic economists' daily commentary on economics and policy."
+    },
+    {
+      "name": "Paul Graham Essays",
+      "url": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+      "type": "educational_essays",
+      "credibility_weight": 9,
+      "topics": ["startups", "entrepreneurship", "wealth creation", "career development"],
+      "notes": "Classic essays on startups, wealth creation, and independent thinking."
+    },
+    {
+      "name": "Federal Reserve Economic Data (FRED Blog)",
+      "url": "https://fredblog.stlouisfed.org/feed/",
+      "type": "economics_blog",
+      "credibility_weight": 9,
+      "topics": ["economics", "investing fundamentals"],
+      "notes": "Data-driven macroeconomics explanations using public Federal Reserve data."
+    },
+    {
+      "name": "Google DeepMind / AI Official Blog",
+      "url": "https://blog.google/technology/ai/rss/",
+      "type": "official_tech_blog",
+      "credibility_weight": 9,
+      "topics": ["technology", "AI business opportunities", "career development"],
+      "notes": "Official AI research and product announcements."
+    }
+  ],
+  "wisdom": [
+    {
+      "name": "Farnam Street (FS Blog)",
+      "url": "https://fs.blog/feed/",
+      "type": "educational_blog",
+      "credibility_weight": 9,
+      "topics": ["mental models", "decision-making", "critical thinking", "psychology", "leadership"],
+      "notes": "Mental models, clear thinking, and multidisciplinary wisdom."
+    },
+    {
+      "name": "Aeon Magazine",
+      "url": "https://aeon.co/feed.rss",
+      "type": "philosophy_science_essays",
+      "credibility_weight": 9,
+      "topics": ["philosophy", "history", "human behaviour", "psychology", "science"],
+      "notes": "Long-form essays in philosophy, history, psychology, and science."
+    },
+    {
+      "name": "MIT News - Science & Technology",
+      "url": "https://news.mit.edu/rss/topic/science-technology-and-society",
+      "type": "university_research",
+      "credibility_weight": 10,
+      "topics": ["science", "technology", "critical thinking"],
+      "notes": "MIT research at the intersection of science, technology, and society."
+    },
+    {
+      "name": "Quanta Magazine",
+      "url": "https://api.quantamagazine.org/feed/",
+      "type": "science_journalism",
+      "credibility_weight": 10,
+      "topics": ["science", "critical thinking", "technology"],
+      "notes": "Rigorous public journalism on math, physics, biology, and computer science."
+    },
+    {
+      "name": "Stanford Encyclopedia of Philosophy (What's New)",
+      "url": "https://plato.stanford.edu/rss/sep.xml",
+      "type": "academic_reference",
+      "credibility_weight": 10,
+      "topics": ["philosophy", "critical thinking", "decision-making"],
+      "notes": "Peer-reviewed academic philosophy encyclopedia updates."
+    },
+    {
+      "name": "The Knowledge Project Podcast (Public RSS)",
+      "url": "https://feeds.megaphone.fm/FSI1483080183",
+      "type": "podcast_rss",
+      "credibility_weight": 8,
+      "topics": ["decision-making", "leadership", "communication", "relationships", "mental models"],
+      "notes": "In-depth conversations on decision-making, mastery, and human behavior."
+    },
+    {
+      "name": "Wait But Why",
+      "url": "https://waitbutwhy.com/feed",
+      "type": "educational_blog",
+      "credibility_weight": 8,
+      "topics": ["human behaviour", "science", "technology", "critical thinking"],
+      "notes": "First-principles visual essays on science, behavior, and long-term thinking."
+    }
+  ]
+}

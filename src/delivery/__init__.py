@@ -1,0 +1,1 @@
+"""Delivery renderers, Google Docs/PDF exporters, and daily/weekly orchestrators."""

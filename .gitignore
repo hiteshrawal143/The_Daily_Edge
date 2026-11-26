@@ -1,0 +1,36 @@
+# Python & Virtual Environment
+.venv/
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Secrets & Google OAuth Credentials (NEVER commit)
+.env
+credentials.json
+token.json
+client_secret*.json
+service_account*.json
+*.pem
+*.key
+
+# Local Runtime Data & Exports
+data/
+logs/
+*.db
+*.sqlite3
+*.pdf
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE & Temporary Files
+.antigravity/
+.agent/
+.vscode/
+project_structure.txt
+NEXT_STEPS.md
+
+automation/
